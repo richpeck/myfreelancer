@@ -13,7 +13,7 @@
  *= require_tree .
  *= require_self
  */
-@import "~bulma/bulma";
+@import "bulma";
 
 @import 'bulma-extensions';
 @import 'noty/lib/noty';
